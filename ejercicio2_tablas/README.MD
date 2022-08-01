@@ -1,7 +1,6 @@
 # Ejercicio 2
 
 Entregable
-5min de duración aprox.
 Duración aproximada: 5min
 
 Enunciado del ejercicio:
