@@ -12,7 +12,7 @@ Enunciado del ejercicio:
 - Dentro de la etiqueta body pon un comentario de dos líneas
 
 - Este es mi primer comentario de dos líneas
-- 
+
 
 ## Aprendiendo a documentar mi código con OpenBootcamp
 
