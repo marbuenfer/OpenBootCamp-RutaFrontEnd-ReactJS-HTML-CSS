@@ -3,5 +3,5 @@
  
 
 - EjercicioInicial
-- Ejercicio2_formularios
+- Ejercicio2_formulario
 - Ejercicio2_tablas
